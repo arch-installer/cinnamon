@@ -346,3 +346,35 @@ statusbar-visible=true
 
 [org/x/editor/state/window]
 side-panel-size=200
+
+[org/gnome/terminal/legacy]
+default-show-menubar=true
+menu-accelerator-enabled=false
+mnemonics-enabled=true
+theme-variant='dark'
+
+[org/gnome/terminal/legacy/keybindings]
+copy-html='<Primary><Shift>h'
+preferences='<Primary>colon'
+reset-and-clear='<Primary><Shift>l'
+select-all='<Primary><Shift>a'
+
+[org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(16,16,16)'
+background-transparency-percent=5
+backspace-binding='auto'
+cjk-utf8-ambiguous-width='narrow'
+cursor-blink-mode='on'
+default-size-columns=100
+default-size-rows=28
+delete-binding='auto'
+font='Terminus (TTF) Medium 15'
+foreground-color='rgb(164,164,164)'
+palette=['rgb(16,16,16)', 'rgb(175,25,35)', 'rgb(105,166,42)', 'rgb(230,133,35)', 'rgb(41,53,177)', 'rgb(124,31,161)', 'rgb(35,151,245)', 'rgb(164,164,164)', 'rgb(48,48,48)', 'rgb(255,0,0)', 'rgb(76,255,0)', 'rgb(255,216,0)', 'rgb(0,38,255)', 'rgb(255,0,255)', 'rgb(0,255,255)', 'rgb(245,245,245)']
+scrollback-lines=32768
+scrollbar-policy='never'
+text-blink-mode='focused'
+use-system-font=false
+use-theme-colors=false
+use-transparent-background=true
+visible-name='Custom'
