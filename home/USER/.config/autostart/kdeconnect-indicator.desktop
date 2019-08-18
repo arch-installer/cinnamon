@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=KDE Connect Indicator
+Comment=Launch and place a KDE Connect integration icon in the system tray
+TryExec=kdeconnect-indicator
+Exec=kdeconnect-indicator
+Icon=kdeconnect
+Terminal=false
+StartupNotify=false
+X-GNOME-Autostart-Delay=10
