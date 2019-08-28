@@ -172,6 +172,9 @@
             "firefox.desktop",
             "org.gnome.Screenshot.desktop",
             "org.gnome.Terminal.desktop"
+            "libreoffice-writer.desktop",
+            "libreoffice-impress.desktop",
+            "libreoffice-calc.desktop"
         ]
     },
     "group-apps": {
@@ -289,7 +292,7 @@
         "type": "checkbox",
         "default": false,
         "description": "Animate thumbnails",
-        "value": true
+        "value": false
     },
     "vertical-thumbnails": {
         "type": "checkbox",
