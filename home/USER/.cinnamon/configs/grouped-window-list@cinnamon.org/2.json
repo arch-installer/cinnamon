@@ -166,7 +166,7 @@
             "nemo.desktop",
             "firefox.desktop",
             "org.gnome.Screenshot.desktop",
-            "org.gnome.Terminal.desktop"
+            "org.gnome.Terminal.desktop",
             "libreoffice-writer.desktop",
             "libreoffice-impress.desktop",
             "libreoffice-calc.desktop"
@@ -175,7 +175,7 @@
             "nemo.desktop",
             "firefox.desktop",
             "org.gnome.Screenshot.desktop",
-            "org.gnome.Terminal.desktop"
+            "org.gnome.Terminal.desktop",
             "libreoffice-writer.desktop",
             "libreoffice-impress.desktop",
             "libreoffice-calc.desktop"
