@@ -27,7 +27,8 @@
         "value": [
             "banshee",
             "vlc",
-            "rhythmbox"
+            "rhythmbox",
+            "spotify"
         ]
     },
     "section2": {
@@ -39,7 +40,7 @@
         "default": false,
         "description": "Show song information on the panel",
         "dependency": "playerControl",
-        "value": true
+        "value": false
     },
     "truncatetext": {
         "type": "spinbutton",
@@ -51,7 +52,7 @@
         "description": "Limit song information to",
         "dependency": "showtrack",
         "indent": true,
-        "value": 30.0
+        "value": 30
     },
     "middleClickAction": {
         "type": "combobox",
